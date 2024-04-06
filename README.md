@@ -15,13 +15,13 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 1. Clona este repositorio en tu máquina local utilizando Git:
 
     ```bash
-    git clone https://github.com/Schugu/calculator.git
+    git clone https://github.com/Schugu/Calculator.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```bash
-    cd calculator
+    cd Calculator
     ```
 
 3. Una vez clonado el repositorio en tu máquina local, abre el archivo `index.html` en tu navegador web para ver el proyecto.
