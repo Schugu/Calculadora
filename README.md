@@ -4,7 +4,7 @@
 
 🎯 Objetivo: Crear una página calculadora.
 
-"Esta idea de proyecto está inspirada en los videos "CALCULADORA EN 1 LÍNEA DE CÓDIGO | CALCULADORA EN 5 MINUTOS | JAVASCRIPT" de Anthony Zabs ([ver video](https://www.youtube.com/watch?v=liBiDMUVfR4 "ver video")) y "Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico" de FreeCodeCamp Español ([ver video](https://youtu.be/BA328RQa08M?si=5ufWXesJHY-epQta "ver video")). Aunque me guié por las ideas presentadas en estos videos, he desarrollado esta página calculadora a mi manera, añadiendo mis propios enfoques y personalizaciones."
+Esta idea de proyecto está inspirada en los videos "CALCULADORA EN 1 LÍNEA DE CÓDIGO | CALCULADORA EN 5 MINUTOS | JAVASCRIPT" de Anthony Zabs ([ver video](https://www.youtube.com/watch?v=liBiDMUVfR4 "ver video")) y "Crea 7 Proyectos con HTML, CSS y JavaScript - Curso Práctico" de FreeCodeCamp Español ([ver video](https://youtu.be/BA328RQa08M?si=5ufWXesJHY-epQta "ver video")). Aunque me guié por las ideas presentadas en estos videos, he desarrollado esta página calculadora a mi manera, añadiendo mis propios enfoques y personalizaciones.
 
 ------------
 
